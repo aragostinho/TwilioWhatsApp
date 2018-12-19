@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioWhats.Client", "TwilioWhats.Client\TwilioWhats.Client.csproj", "{C61AA072-2427-469A-8C63-E97C025C3C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioWhats.Service", "TwilioWhats.Service\TwilioWhats.Service.csproj", "{D3418B38-AFF0-46F2-948D-DE8649D5C491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioWhats.Utils", "TwilioWhats.Utils\TwilioWhats.Utils.csproj", "{27A5414A-66B3-49CD-B38E-DFEC89925F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61AA072-2427-469A-8C63-E97C025C3C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61AA072-2427-469A-8C63-E97C025C3C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61AA072-2427-469A-8C63-E97C025C3C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61AA072-2427-469A-8C63-E97C025C3C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3418B38-AFF0-46F2-948D-DE8649D5C491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3418B38-AFF0-46F2-948D-DE8649D5C491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3418B38-AFF0-46F2-948D-DE8649D5C491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3418B38-AFF0-46F2-948D-DE8649D5C491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A5414A-66B3-49CD-B38E-DFEC89925F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A5414A-66B3-49CD-B38E-DFEC89925F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A5414A-66B3-49CD-B38E-DFEC89925F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A5414A-66B3-49CD-B38E-DFEC89925F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9681ED-5804-49AD-8635-8CAC0CC9729E}
+	EndGlobalSection
+EndGlobal
