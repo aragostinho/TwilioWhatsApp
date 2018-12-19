@@ -4,6 +4,9 @@
 # Twilio Account 
 Before of all you need to create an account (free trial) on https://www.twilio.com.  After that, it's necessary to create a Programmable SMS Project.  See first steps on https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account.
 
+# WhatsApp Sandbox
+Set Up Your Testing Sandbox. To send messages with WhatsApp in production, you have to wait for WhatsApp to formally approve your account. But, that doesn't mean you have to wait to start building. Twilio Sandbox for WhatsApp lets you test your app in a developer environment.
+
 # Twilio REST API
 This program uses Twilio REST API 5.24.0 available on https://www.nuget.org/packages/Twilio/
 
