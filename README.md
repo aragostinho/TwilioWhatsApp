@@ -23,6 +23,6 @@ In TwilioSMS.Utils project, open TwilioCredentials.cs and define the variables:
 
         public static string AccountSid = "";
         public static string AuthToken = "";
-        public static string TwilioWhatsSenderPhoneNumber = ""; //A Twilio WhatsApp number contracted on Twilio Dashboard
+        public static string TwilioWhatsSenderPhoneNumber = ""; //A Twilio WhatsApp number 
 
 
